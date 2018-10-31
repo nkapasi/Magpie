@@ -1,0 +1,18 @@
+where are you from ?
+    response: peter said I must be from another planet
+Most Interesting response:
+    Don't be obscene
+
+Most Peculiar:
+    Obscen talk is ugly and unncessary
+
+How does it Respond to ASDFGHJKL?
+    that doesn't make sense
+
+keywords: where, how, You, date, comamnds, go, nothing, yes, nothing
+
+response go: go where, enter place, go to that place but cant get out of computer
+
+response: nothing: short conversation
+
+rsponse: definitions zilch
